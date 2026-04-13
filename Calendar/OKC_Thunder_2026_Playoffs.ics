@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//OKC Thunder 2026 Playoffs//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:OKC Thunder 2026 Playoffs
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:okc-thunder-2026-r1g1-20260419@openai.local
+DTSTAMP:20260413T120000Z
+DTSTART;TZID=America/Chicago:20260419T143000
+DTEND;TZID=America/Chicago:20260419T173000
+SUMMARY:OKC Thunder Playoffs — Round 1 Game 1 (Opponent TBD)
+DESCRIPTION:2026 NBA Playoffs. Thunder Round 1 Game 1 in Oklahoma City. Opponent and additional playoff games to be added as they are officially announced.
+LOCATION:Paycom Center, Oklahoma City, OK
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
